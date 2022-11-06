@@ -11,6 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💻 I'm a junior software engineer. I specialize in creating front-end and back-end for creating web applications.
 - 📚 Exploring Technical Content Writing.
 - 🔫 In my free time I solve problems on CodeWars and make Pet projects.
+- 🤑 At the moment I'm doing freelance assignments.
 ---
 
 ### 🔥 &nbsp; My Stats :
