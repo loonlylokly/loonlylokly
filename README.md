@@ -1,10 +1,12 @@
-<p align="center"><img src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif" width="350"/></p>
-<p align="center">
+# Hey 👋, I'm Lokly!
+
+<img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif" />
+
 <a href="https://www.linkedin.com/in/lonlylokly"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://t.me/lonlylokly"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&color=white&logo=telegram&logoColor=black" alt="Telegram Badge"></a>
-</p>
 
-### About Me :
+
+## About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -14,10 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🤑 At the moment I'm doing freelance assignments.
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loonlylokly&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loonlylokly&layout=compact&theme=vision-friendly-dark&hide=HTML,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+## Languages and Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -42,3 +41,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+
+## 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loonlylokly&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loonlylokly&layout=compact&theme=vision-friendly-dark&hide=HTML,Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
