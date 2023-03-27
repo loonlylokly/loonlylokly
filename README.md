@@ -1,4 +1,4 @@
-# Hey 👋, I'm Lokly!
+# Hi 👋, I'm Mikhail!
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif" />
 
@@ -8,7 +8,7 @@
 
 ## About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💻 I'm a Frontend React developer.
 - 📚 Exploring Technical Content Writing.
