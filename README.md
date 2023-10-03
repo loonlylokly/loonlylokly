@@ -11,9 +11,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💻 I'm a Frontend React developer.
-- 📚 Exploring Technical Content Writing.
-- 🔫 In my free time I solve problems on CodeWars and make Pet projects.
-- 🤑 At the moment I'm doing freelance assignments.
 ---
 
 ## Languages and Tools
